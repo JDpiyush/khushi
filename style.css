@@ -19,7 +19,7 @@
     background-attachment: fixed;
   
     animation-name: bg-change;
-    animation-duration: 15s;
+    animation-duration: 2s;
     animation-timing-function: linear;
     animation-direction: alternate;
     animation-iteration-count: infinite;
